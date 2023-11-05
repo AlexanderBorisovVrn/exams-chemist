@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/exams-chemist/static/css/main.cf86cace.css",
-    "main.js": "/exams-chemist/static/js/main.58a5b86c.js",
+    "main.css": "/exams-chemist/static/css/main.3831a05b.css",
+    "main.js": "/exams-chemist/static/js/main.761bdcca.js",
     "static/js/787.ae0e318e.chunk.js": "/exams-chemist/static/js/787.ae0e318e.chunk.js",
-    "static/media/logo.svg": "/exams-chemist/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/exams-chemist/index.html",
-    "main.cf86cace.css.map": "/exams-chemist/static/css/main.cf86cace.css.map",
-    "main.58a5b86c.js.map": "/exams-chemist/static/js/main.58a5b86c.js.map",
+    "main.3831a05b.css.map": "/exams-chemist/static/css/main.3831a05b.css.map",
+    "main.761bdcca.js.map": "/exams-chemist/static/js/main.761bdcca.js.map",
     "787.ae0e318e.chunk.js.map": "/exams-chemist/static/js/787.ae0e318e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf86cace.css",
-    "static/js/main.58a5b86c.js"
+    "static/css/main.3831a05b.css",
+    "static/js/main.761bdcca.js"
   ]
 }
